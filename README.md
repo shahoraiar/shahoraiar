@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahoraiar&" alt="shahoraiar" /></p> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahoraiar&show_icons=true&locale=en" alt="shahoraiar" /></p>
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=shahoraiar&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 <!--
 **shahoraiar/shahoraiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
